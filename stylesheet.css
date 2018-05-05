@@ -1,6 +1,6 @@
 body 
 {
-background-image: url("background.png");
+background-image: url("layout/background.png");
 background-repeat: repeat-y;
 background-size: 100%
 color:#512800;
