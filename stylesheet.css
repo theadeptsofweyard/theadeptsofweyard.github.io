@@ -1,11 +1,11 @@
 ﻿body 
 {
+color:#432616;
+font-family:"Verdana",Sans-serif;
 background-image: url("layout/background.png");
 background-repeat: repeat-y;
 background-size: 100%
-color:#512800;
-font-family:"Verdana",Sans-serif;
-font-size:0.875em;
+font-size:1.00em;
 margin-left: 340px;
 margin-right: 340px;
 background-size: 100%;
